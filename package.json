@@ -16,7 +16,7 @@
     "web3-eth-accounts": "1.0.0-beta.33",
     "web3-eth-contract": "1.0.0-beta.33",
     "web3-eth-iban": "1.0.0-beta.33",
-    "web3-eth-personal": "1.0.0-beta.33",
+    "web3-eth-personal": "git+https://github.com/dukle/web3-eth-personal-classic",
     "web3-net": "1.0.0-beta.33",
     "web3-utils": "1.0.0-beta.33"
   }
